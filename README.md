@@ -220,7 +220,7 @@ pip install -r requirements.txt
 - Streamlit dashboard for interactive backtesting
 
 ---
-
+ okkk 
 ## ⚠️ Disclaimer
 
 This project is for **educational purposes only**. Do not use this as financial advice or for live trading without proper risk management. Past backtest results do not guarantee future performance.
